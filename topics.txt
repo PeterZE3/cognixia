@@ -1,0 +1,11 @@
+lessons learned
+How to set up a local repository
+how to create files in git
+how to create branches in git
+how to merge branches in git (several methods)
+how to set up a remote repositry using github
+how to connect to a remote repository from a local repository
+how to push and pull information from a local repository to a remote repository
+how to set up an upstream
+best practices for naming files
+best practices for logging commits
