@@ -9,3 +9,4 @@ how to push and pull information from a local repository to a remote repository
 how to set up an upstream
 best practices for naming files
 best practices for logging commits
+Comfortable with all above topics
